@@ -10,6 +10,13 @@ footer {
 	max-width: $container-width;
 	margin:0 auto;
 }
+
+h1{
+	margin: 0 auto;
+	text-align: center;
+	color: $color-link;
+}
+
 .wrapper {
 	padding:1em 0;
 	background: $color-background-container;
